@@ -275,6 +275,12 @@
         <scope>test</scope>
       </dependency>
       <dependency>
+        <groupId>org.instancio</groupId>
+        <artifactId>instancio-core</artifactId>
+        <version>5.2.1</version>
+        <scope>test</scope>
+      </dependency>
+      <dependency>
         <groupId>org.threeten</groupId>
         <artifactId>threeten-extra</artifactId>
         <version>1.7.2</version>
